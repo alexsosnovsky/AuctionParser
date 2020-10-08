@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/auctionparser/static/css/main.5f361e03.chunk.css",
-    "main.js": "/auctionparser/static/js/main.97666a13.chunk.js",
-    "main.js.map": "/auctionparser/static/js/main.97666a13.chunk.js.map",
-    "runtime-main.js": "/auctionparser/static/js/runtime-main.bf935353.js",
-    "runtime-main.js.map": "/auctionparser/static/js/runtime-main.bf935353.js.map",
-    "static/js/2.eb9f6d0d.chunk.js": "/auctionparser/static/js/2.eb9f6d0d.chunk.js",
-    "static/js/2.eb9f6d0d.chunk.js.map": "/auctionparser/static/js/2.eb9f6d0d.chunk.js.map",
-    "index.html": "/auctionparser/index.html",
-    "precache-manifest.bcdf3923d706195c24b81673b06060fc.js": "/auctionparser/precache-manifest.bcdf3923d706195c24b81673b06060fc.js",
-    "service-worker.js": "/auctionparser/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/auctionparser/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb9f6d0d.chunk.js.LICENSE.txt": "/auctionparser/static/js/2.eb9f6d0d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/auctionparser/static/media/logo.5d5d9eef.svg"
+    "main.css": "/AuctionParser/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AuctionParser/static/js/main.23a19d4c.chunk.js",
+    "main.js.map": "/AuctionParser/static/js/main.23a19d4c.chunk.js.map",
+    "runtime-main.js": "/AuctionParser/static/js/runtime-main.6f43239c.js",
+    "runtime-main.js.map": "/AuctionParser/static/js/runtime-main.6f43239c.js.map",
+    "static/js/2.eb9f6d0d.chunk.js": "/AuctionParser/static/js/2.eb9f6d0d.chunk.js",
+    "static/js/2.eb9f6d0d.chunk.js.map": "/AuctionParser/static/js/2.eb9f6d0d.chunk.js.map",
+    "index.html": "/AuctionParser/index.html",
+    "precache-manifest.8a9f34db20ec51793136f263248262de.js": "/AuctionParser/precache-manifest.8a9f34db20ec51793136f263248262de.js",
+    "service-worker.js": "/AuctionParser/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AuctionParser/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb9f6d0d.chunk.js.LICENSE.txt": "/AuctionParser/static/js/2.eb9f6d0d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AuctionParser/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf935353.js",
+    "static/js/runtime-main.6f43239c.js",
     "static/js/2.eb9f6d0d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.97666a13.chunk.js"
+    "static/js/main.23a19d4c.chunk.js"
   ]
 }
